@@ -1,16 +1,23 @@
-### Hi there 👋
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F188AA&center=true&vCenter=true&multiline=true&width=435&height=62&lines=Hi+there%2C;you+have+arrived+in+wizards+arena!!!" alt="Typing SVG" /></a>
+</p>
 
-<!--
-**KrishnakantTiwari11/KrishnakantTiwari11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://twitter.com/OmShirke18"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+ <!--<a href="https://yashdhadve.hashnode.dev"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+ --> 
+</p>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### <p align="center" style= "font-style: italic">I like working on backend and building new things</p>
+
+![I like working on backend and converting math functions into code.](https://github.com/Exar04/Exar04/blob/main/image.png)
+
+<p align="center" style= "font-style: italic">
+I like building projects and learning alongside.<br>
+Skills: MERN,C++,js <br>
+  - 🔭 Learning Web Development and Engineering.
+</p>
